@@ -1,0 +1,107 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-05-20 08:32:04.480439",
+  "name": "Fitment Rejection Not Accepted",
+  "workflow_action_name": "Fitment Rejection Not Accepted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-05-20 08:31:47.912637",
+  "name": "Fitment Rejection Accepted",
+  "workflow_action_name": "Fitment Rejection Accepted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-04-17 11:58:12.052786",
+  "name": "Embossing and Hotfoiling Rejection",
+  "workflow_action_name": "Embossing and Hotfoiling Rejection"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-04-17 14:00:05.394393",
+  "name": "Embossing And HotFoiling Rejection Accepted",
+  "workflow_action_name": "Embossing And HotFoiling Rejection Accepted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-04-17 14:00:29.837027",
+  "name": "Embossing And HotFoiling Rejection Not Accepted",
+  "workflow_action_name": "Embossing And HotFoiling Rejection Not Accepted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-04-17 14:12:56.928682",
+  "name": "Inward Rejection",
+  "workflow_action_name": "Inward Rejection"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-04-17 17:06:10.833315",
+  "name": "Inward Rejection Accepted",
+  "workflow_action_name": "Inward Rejection Accepted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-04-17 17:06:22.353181",
+  "name": "Inward Rejection Not Accepted",
+  "workflow_action_name": "Inward Rejection Not Accepted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-04-17 17:09:22.431250",
+  "name": "Fitment Rejection",
+  "workflow_action_name": "Fitment Rejection"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-02-16 17:05:42.353430",
+  "name": "Close",
+  "workflow_action_name": "Close"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-03-26 15:04:21.781582",
+  "name": "Plate Reversal",
+  "workflow_action_name": "Plate Reversal"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-03-26 15:05:22.796352",
+  "name": "Process Reversal",
+  "workflow_action_name": "Process Reversal"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-03-29 14:07:39.626182",
+  "name": "Activate",
+  "workflow_action_name": "Activate"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-01-17 14:32:55.285471",
+  "name": "Approve",
+  "workflow_action_name": "Approve"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2024-01-17 14:32:55.286571",
+  "name": "Reject",
+  "workflow_action_name": "Reject"
+ }
+]

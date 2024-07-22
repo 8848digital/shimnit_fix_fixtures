@@ -1,0 +1,83 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-02-24 16:26:59.548801",
+  "name": "At HSRP Issuance",
+  "style": "Info",
+  "workflow_state_name": "At HSRP Issuance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-03-07 09:48:17.314470",
+  "name": "At Embossing and Hot-Foiling",
+  "style": "",
+  "workflow_state_name": "At Embossing and Hot-Foiling"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-03-07 09:48:46.370936",
+  "name": "At TLP Printing",
+  "style": "",
+  "workflow_state_name": "At TLP Printing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-03-07 09:49:30.348186",
+  "name": "DC Pending",
+  "style": "",
+  "workflow_state_name": "DC Pending"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-03-07 09:50:21.653385",
+  "name": "Fitment Completed",
+  "style": "",
+  "workflow_state_name": "Fitment Completed"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-02-24 15:33:07.607151",
+  "name": "Rejection Approved",
+  "style": "",
+  "workflow_state_name": "Rejection Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-02-24 15:32:49.065304",
+  "name": "Pending at Rejection Approval",
+  "style": "",
+  "workflow_state_name": "Pending at Rejection Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-01-19 19:04:07.453138",
+  "name": "Pending For Approval",
+  "style": "Warning",
+  "workflow_state_name": "Pending For Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2024-01-19 18:40:50.742437",
+  "name": "Draft",
+  "style": "",
+  "workflow_state_name": "Draft"
+ }
+]

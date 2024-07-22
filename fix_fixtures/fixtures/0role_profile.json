@@ -1,0 +1,882 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:29:50.488132",
+  "name": "Stock  HOD",
+  "role_profile": "Stock  HOD",
+  "roles": [
+   {
+    "parent": "Stock  HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Stock  HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock HOD"
+   },
+   {
+    "parent": "Stock  HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-11 11:15:24.115510",
+  "name": "SWH User",
+  "role_profile": "SWH User",
+  "roles": [
+   {
+    "parent": "SWH User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-13 15:09:06.357569",
+  "name": "HR User",
+  "role_profile": "HR User",
+  "roles": [
+   {
+    "parent": "HR User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR User"
+   },
+   {
+    "parent": "HR User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-13 15:09:44.550801",
+  "name": "HR Manager",
+  "role_profile": " HR Manager",
+  "roles": [
+   {
+    "parent": "HR Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "HR Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:29:32.293281",
+  "name": "Manufacturing HOD",
+  "role_profile": "Manufacturing HOD",
+  "roles": [
+   {
+    "parent": "Manufacturing HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing HOD"
+   },
+   {
+    "parent": "Manufacturing HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-09 12:45:38.524264",
+  "name": "Accounts User",
+  "role_profile": "Accounts User",
+  "roles": [
+   {
+    "parent": "Accounts User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Accounts User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:30:19.846074",
+  "name": "Quality Manager",
+  "role_profile": "Quality Manager",
+  "roles": [
+   {
+    "parent": "Quality Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Quality Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:29:25.191599",
+  "name": "Centre Operation",
+  "role_profile": "Centre Operation",
+  "roles": [
+   {
+    "parent": "Centre Operation",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Centre Operation User"
+   },
+   {
+    "parent": "Centre Operation",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-06 08:56:05.419626",
+  "name": "IT Manager",
+  "role_profile": "IT Manager",
+  "roles": [
+   {
+    "parent": "IT Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "IT Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-06 08:56:12.052936",
+  "name": "IT HOD",
+  "role_profile": "IT HOD",
+  "roles": [
+   {
+    "parent": "IT HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "IT HOD"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-01 21:59:08.850367",
+  "name": "Purchase Manger",
+  "role_profile": "Purchase Manger",
+  "roles": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-17 14:33:51.775329",
+  "name": "Inventory",
+  "role_profile": "Inventory",
+  "roles": [
+   {
+    "parent": "Inventory",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Inventory",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Inventory",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Item Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-17 14:33:51.778925",
+  "name": "Manufacturing",
+  "role_profile": "Manufacturing",
+  "roles": [
+   {
+    "parent": "Manufacturing",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Manufacturing",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Manufacturing",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-17 14:33:51.783706",
+  "name": "Accounts",
+  "role_profile": "Accounts",
+  "roles": [
+   {
+    "parent": "Accounts",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Accounts",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-17 14:33:51.786500",
+  "name": "Sales",
+  "role_profile": "Sales",
+  "roles": [
+   {
+    "parent": "Sales",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Sales",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Sales",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-17 14:33:51.789561",
+  "name": "Purchase",
+  "role_profile": "Purchase",
+  "roles": [
+   {
+    "parent": "Purchase",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "Purchase",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Purchase",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Purchase",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-17 14:34:26.235322",
+  "name": "HR",
+  "role_profile": "HR",
+  "roles": [
+   {
+    "parent": "HR",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR User"
+   },
+   {
+    "parent": "HR",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "HR",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Leave Approver"
+   },
+   {
+    "parent": "HR",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Expense Approver"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-19 23:22:23.910563",
+  "name": "Accounts Manager",
+  "role_profile": "Accounts Manager",
+  "roles": [
+   {
+    "parent": "Accounts Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-01-19 23:30:27.085727",
+  "name": "Accounts  HOD",
+  "role_profile": "Accounts  HOD",
+  "roles": [
+   {
+    "parent": "Accounts  HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts HOD"
+   },
+   {
+    "parent": "Accounts  HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-02-23 17:07:03.624243",
+  "name": "Stores User",
+  "role_profile": "Stores User",
+  "roles": [
+   {
+    "parent": "Stores User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Store Purchase User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-02-28 19:35:51.589137",
+  "name": "Operations User",
+  "role_profile": "Operations User",
+  "roles": [
+   {
+    "parent": "Operations User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Operations User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-02-28 19:36:06.616266",
+  "name": "Dealer",
+  "role_profile": "Dealer",
+  "roles": [
+   {
+    "parent": "Dealer",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Dealer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-02-14 00:02:41.100494",
+  "name": "supplier",
+  "role_profile": "supplier",
+  "roles": [
+   {
+    "parent": "supplier",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Supplier"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-02-14 13:20:37.565036",
+  "name": "Store checker",
+  "role_profile": "Store checker",
+  "roles": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-04 15:39:16.687422",
+  "name": "Material Request- Manager",
+  "role_profile": "Material Request- Manager",
+  "roles": [
+   {
+    "parent": "Material Request- Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Material Request- Manager"
+   },
+   {
+    "parent": "Material Request- Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-02 16:06:51.582611",
+  "name": "Store Purchase User",
+  "role_profile": "Store Purchase User",
+  "roles": [
+   {
+    "parent": "Store Purchase User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Store Purchase User"
+   },
+   {
+    "parent": "Store Purchase User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Material Request user"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-04 18:29:05.165661",
+  "name": "Store Manager",
+  "role_profile": "Store Manager",
+  "roles": [
+   {
+    "parent": "Store Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Store Manager"
+   },
+   {
+    "parent": "Store Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-04 20:11:25.864720",
+  "name": "Store HOD",
+  "role_profile": "Store HOD",
+  "roles": [
+   {
+    "parent": "Store HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Store HOD"
+   },
+   {
+    "parent": "Store HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts HOD"
+   },
+   {
+    "parent": "Store HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-04 20:33:41.709541",
+  "name": "Quality User",
+  "role_profile": "Quality User",
+  "roles": [
+   {
+    "parent": "Quality User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality User"
+   },
+   {
+    "parent": "Quality User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Material Request user"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-13 11:43:29.338454",
+  "name": "Purchase User",
+  "role_profile": "Purchase User",
+  "roles": [
+   {
+    "parent": "Purchase User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-02-20 14:49:11.942141",
+  "name": "Purchase Manager",
+  "role_profile": "Purchase Manager",
+  "roles": [
+   {
+    "parent": "Purchase Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Purchase Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Supplier"
+   },
+   {
+    "parent": "Purchase Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stores User"
+   },
+   {
+    "parent": "Purchase Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Store Purchase User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-13 12:01:23.640242",
+  "name": "Purchase HOD",
+  "role_profile": "Purchase HOD",
+  "roles": [
+   {
+    "parent": "Purchase HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase HOD"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-04 15:31:52.521333",
+  "name": "Material Request user",
+  "role_profile": "Material Request user",
+  "roles": [
+   {
+    "parent": "Material Request user",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Material Request user"
+   },
+   {
+    "parent": "Material Request user",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-04 20:43:59.369168",
+  "name": "Quality HOD",
+  "role_profile": "Quality HOD",
+  "roles": [
+   {
+    "parent": "Quality HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality HOD"
+   },
+   {
+    "parent": "Quality HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Quality HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-03-05 09:57:19.998532",
+  "name": "Material Request- HOD",
+  "role_profile": "Material Request- HOD",
+  "roles": [
+   {
+    "parent": "Material Request- HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Material Request- HOD"
+   },
+   {
+    "parent": "Material Request- HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Material Request user"
+   },
+   {
+    "parent": "Material Request- HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Material Request- HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:30:04.547556",
+  "name": "Manufacturing Manager",
+  "role_profile": "Manufacturing Manager",
+  "roles": [
+   {
+    "parent": "Manufacturing Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Manufacturing Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 14:44:09.270684",
+  "name": "Stock User",
+  "role_profile": "Stock User",
+  "roles": [
+   {
+    "parent": "Stock User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Stock User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:29:10.714808",
+  "name": "Centre Operation User",
+  "role_profile": "Centre Operation User",
+  "roles": [
+   {
+    "parent": "Centre Operation User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Centre Operation User"
+   },
+   {
+    "parent": "Centre Operation User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-08 12:18:32.424054",
+  "name": "IT User",
+  "role_profile": "IT User",
+  "roles": [
+   {
+    "parent": "IT User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "IT User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:29:43.659028",
+  "name": "Stock HOD",
+  "role_profile": "Stock HOD",
+  "roles": [
+   {
+    "parent": "Stock HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Stock HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock HOD"
+   },
+   {
+    "parent": "Stock HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-02 09:29:58.423554",
+  "name": "Stock Manager",
+  "role_profile": "Stock Manager",
+  "roles": [
+   {
+    "parent": "Stock Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Stock Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2024-04-08 11:25:27.619821",
+  "name": "Manufacturing User",
+  "role_profile": "Manufacturing User",
+  "roles": [
+   {
+    "parent": "Manufacturing User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Manufacturing User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support User"
+   }
+  ]
+ }
+]
